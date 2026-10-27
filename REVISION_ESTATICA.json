@@ -1,0 +1,21 @@
+{
+  "test/bibliotrack_test.dart": {
+    "sin_cambios": true,
+    "sha256": "2f55847a23ea7ce3922b6ebda91ec890e5924e47d5d25f31f3e2bb4843afc0bf"
+  },
+  "pubspec.yaml": {
+    "sin_cambios": true,
+    "sha256": "c86c56fd16b70232e50f170f88b2ba4a11fad29420d0f965c88e0c189c541e7f"
+  },
+  "pubspec.lock": {
+    "sin_cambios": true,
+    "sha256": "0918b1d4d8e1de0e5c38908636bb4a6240ad7cdb118d20c4f44ea0af76dbcfb0"
+  },
+  "pruebas_originales": 19,
+  "pendientes_en_lib": [],
+  "fecha_verificacion": "2026-10-27",
+  "flutter": "3.41.2",
+  "dart": "3.11.0",
+  "validacion_flutter": "flutter analyze sin problemas; 19 pruebas aprobadas",
+  "compilacion_windows": "Debug compilado y pantalla principal abierta"
+}
