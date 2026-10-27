@@ -86,12 +86,3 @@ flutter build windows --release
 ```
 
 La compilación queda en `build/windows/x64/runner/Release/`. Para distribuir la aplicación, copie esa carpeta completa, incluido el ejecutable, las bibliotecas y `data/`.
-
-## Entrega del Tema A
-
-Según la plantilla del informe, se presentan dos archivos:
-
-- `ApellidoNombre_TemaA_SIS048_2026-II.zip`: código fuente con `lib/`, `test/` y `pubspec.yaml`. Incluya también `pubspec.lock`, `windows/`, los iniciadores, los diagramas y este README para reproducir la ejecución en Windows. Excluya `build/`, `.dart_tool/` y los archivos temporales.
-- `ApellidoNombre_TemaA_Informe_SIS048_2026-II.pdf`: informe con el análisis del código base, reglas de negocio, diagramas, resultados de las pruebas, capturas de la aplicación, reflexión final y autoevaluación.
-
-Sustituya `ApellidoNombre` por los datos del estudiante. Las capturas deben mostrar el comando o la pantalla completa y su resultado. Los diagramas están en `documentacion/casos_de_uso.png` y `documentacion/clases.png`.
